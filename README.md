@@ -22,4 +22,4 @@
 - fdet.m Newly defined function for calculating the determinant of a matrix, this is to avoid numerical "0" error for large size matrix
 - findex.m Transfer a Wannier state's real space coordinate into its index inside the basis
 - fhop.m Give the correct Wannier states' index when defineing the BdG Hamiltonian
-- pfaffian_householder.m This is from a package by M. Wimmer to calculate the Pfaffian of a skew-symmetric matrix
+- pfaffian_householder.m This is from a package by [M. Wimmer](https://arxiv.org/abs/1102.3440) to calculate the Pfaffian of a skew-symmetric a matrix
